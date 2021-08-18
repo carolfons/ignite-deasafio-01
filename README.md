@@ -31,4 +31,7 @@ Este projeto foi feito utilizando as seguintes tecnologias:
 - [Style Loader](https://webpack.js.org/loaders/style-loader/)
 - [Webpack](https://webpack.js.org/)
 
+---
+
+<p align = "center"> Desenvolvido por Caroline Fonseca & <a href = "https://rocketseat.com.br">RocketSeat :rocket: </a>
 
